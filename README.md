@@ -4,8 +4,7 @@
 #Candidate Details :
 
 First Contribution -
-Name : Jigyasa Gupta 
-Email : guptajigy012@gmail.com
-
+Name : Jigyasa Gupta <br>
+Email : guptajigy012@gmail.com  <br>
 
 Second Contribution :
